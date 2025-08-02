@@ -3,7 +3,7 @@
 	<class>win_spout_output_settings</class>
 	<widget class="QDialog" name="win_spout_output_settings">
 		<property name="windowModality">
-			<enum>Qt::WindowModal</enum>
+			<enum>Qt::NonModal</enum>
 		</property>
 		<property name="geometry">
 			<rect>
